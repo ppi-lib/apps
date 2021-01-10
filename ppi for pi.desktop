@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ppi-lib
+Comment=py for pi and windows,mac,hack
+Exec=/home/pi/ppi/gui
+Icon=/home/pi/ppi/icons/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;
